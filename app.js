@@ -49,4 +49,3 @@ const api = {
   
     return `${day} ${date} ${month} ${year}`;
   }
-
