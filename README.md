@@ -18,6 +18,11 @@
 
 #### Firefox:
 
+- Download and extract [Weather App Extension](https://github.com/RegusAl/weather-app-extension/archive/main.zip).
+- Navigate to `about:debugging#/runtime/this-firefox` from your address bar.
+- Click on `Load Temporary Add-on` and add the files.
+
+
 
 
 
