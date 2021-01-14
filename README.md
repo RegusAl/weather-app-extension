@@ -5,7 +5,7 @@
 
 ## Demo:
 
-<img src="https://github.com/RegusAl/weather-app-extension/blob/main/images/demo1.png">
+<img src="https://github.com/RegusAl/weather-app-extension/blob/main/demo/demo1.png">
 
 ## Installation
 
