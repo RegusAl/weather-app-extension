@@ -3,10 +3,6 @@
 * Works on FireFox;
 * Works on Google Chrome;
 
-## Demo:
-
-<img src="https://github.com/RegusAl/weather-app-extension/blob/main/demo/demo1.png">
-
 ## Installation
 
 ### Chrome:
@@ -21,6 +17,12 @@
 - Download and extract [Weather App Extension](https://github.com/RegusAl/weather-app-extension/archive/main.zip).
 - Navigate to `about:debugging#/runtime/this-firefox` from your address bar.
 - Click on `Load Temporary Add-on` and add the files.
+
+
+## Demo:
+
+<img src="https://github.com/RegusAl/weather-app-extension/blob/main/demo/demo1.png">
+
 
 
 
