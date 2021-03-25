@@ -1,7 +1,7 @@
 # Weather App Extension
 
-* Works on FireFox 86.0.1;
-* Works on Google Chrome;
+* Works on FireFox 86.0.1 ✔️;
+* Works on Google Chrome; ✔️
 
 ## Installation
 
