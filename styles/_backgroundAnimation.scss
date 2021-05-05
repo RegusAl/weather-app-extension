@@ -1,0 +1,26 @@
+body {
+    transition: 10s;
+    background-image: url(../images/bg1.jpg);
+    animation-name: animation;
+    animation-direction: alternate-reverse;
+    animation-duration: 50s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+    animation-timing-function: ease;
+}
+
+@keyframes animation {
+    0% {
+        background-image: url(../images/bg2.jpg);
+    } 25% {
+        background-image: url(../images/bg3.jpg);
+    } 50% {
+        background-image: url(../images/bg4.jpg);
+    } 75% {
+        background-image: url(../images/bg5.jpg);
+    } 100% {
+        background-image: url(..images/bg1.jpg);
+    }
+
+}

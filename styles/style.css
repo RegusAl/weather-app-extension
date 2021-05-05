@@ -1,6 +1,5 @@
 body {
   font-family: "monserrat", sans-serif;
-  background-image: url(../images/bg1.jpg);
   background-size: cover;
   background-position: top center;
   margin: 0;
@@ -110,5 +109,60 @@ body .app-wrap main .current .high-low {
   font-size: 24px;
   font-weight: 500;
   text-shadow: 0px 4px rgba(0, 0, 0, 0.4);
+}
+
+body {
+  -webkit-transition: 10s;
+  transition: 10s;
+  background-image: url(../images/bg1.jpg);
+  -webkit-animation-name: animation;
+          animation-name: animation;
+  animation-direction: alternate-reverse;
+  -webkit-animation-duration: 50s;
+          animation-duration: 50s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-play-state: running;
+          animation-play-state: running;
+  -webkit-animation-timing-function: ease;
+          animation-timing-function: ease;
+}
+
+@-webkit-keyframes animation {
+  0% {
+    background-image: url(../images/bg2.jpg);
+  }
+  25% {
+    background-image: url(../images/bg3.jpg);
+  }
+  50% {
+    background-image: url(../images/bg4.jpg);
+  }
+  75% {
+    background-image: url(../images/bg5.jpg);
+  }
+  100% {
+    background-image: url(..images/bg1.jpg);
+  }
+}
+
+@keyframes animation {
+  0% {
+    background-image: url(../images/bg2.jpg);
+  }
+  25% {
+    background-image: url(../images/bg3.jpg);
+  }
+  50% {
+    background-image: url(../images/bg4.jpg);
+  }
+  75% {
+    background-image: url(../images/bg5.jpg);
+  }
+  100% {
+    background-image: url(..images/bg1.jpg);
+  }
 }
 /*# sourceMappingURL=style.css.map */
