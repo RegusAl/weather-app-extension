@@ -23,9 +23,6 @@
 
 <img src="https://github.com/RegusAl/weather-app-extension/blob/main/demo/demo1.png">
 
-#### To Do:
-
-- Change Background Image automatically;
 
 
 
