@@ -1,4 +1,5 @@
 # Weather App Extension
+`v1.0`
 
 * Works on FireFox (88.0) ✔️
 * Works on Google Chrome ✔️
