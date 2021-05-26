@@ -111,4 +111,9 @@ body .app-wrap main .current .high-low {
   font-weight: 500;
   text-shadow: 0px 4px rgba(0, 0, 0, 0.4);
 }
+
+body .app-wrap footer {
+  text-align: center;
+  color: #fff;
+}
 /*# sourceMappingURL=style.css.map */
