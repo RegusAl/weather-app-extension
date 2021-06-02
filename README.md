@@ -2,6 +2,7 @@
 `v1.0`
 
 * Works on FireFox (88.0.1) ✔️
+  - add extension from <a href="https://addons.mozilla.org/en-US/firefox/addon/weather-app-extension/">Firefox Add-Ons</a>
 * Works on Google Chrome ✔️
 
 ## Installation
