@@ -16,7 +16,7 @@
 
 ### Firefox:
 
-- Add extension from <a href="https://addons.mozilla.org/en-US/firefox/addon/weather-app-extension/">Firefox Add-Ons</a>
+- Add extension from <a href="https://addons.mozilla.org/en-US/firefox/addon/weather-app-extension/">Firefox Add-Ons</a>(not supported anymore)
 
  or
 
